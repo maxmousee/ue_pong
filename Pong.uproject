@@ -8,10 +8,6 @@
 		"HTML5",
 		"IOS",
 		"LinuxNoEditor",
-		"MacNoEditor",
-		"PS4",
-		"Switch",
-		"WindowsNoEditor",
-		"XboxOne"
+		"MacNoEditor"
 	]
 }
