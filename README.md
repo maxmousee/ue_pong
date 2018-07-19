@@ -9,5 +9,3 @@ https://play.google.com/store/apps/details?id=br.com.nfsindustries.Pong
 
 iOS:
 https://itunes.apple.com/app/simple-pong-by-nfs-industries/id1229296584
-
-TODO: check if it works tvOS and Android TV.
